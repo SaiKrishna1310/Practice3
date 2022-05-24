@@ -27,5 +27,10 @@ namespace Practice
         {
             Console.WriteLine("Avi");
         }
+        //sagar
+        public void sagar()
+        {
+            Console.WriteLine("hii");
+        }
     }
 }
