@@ -32,5 +32,10 @@ namespace Practice
         {
             Console.WriteLine("hii");
         }
+        //Md's Code
+        public void Safi()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
