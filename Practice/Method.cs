@@ -18,5 +18,9 @@ namespace Practice
         {
             Console.WriteLine("Bhagya");
         }
+        public void Arun()
+        {
+            Console.WriteLine("Arun Gangwar");
+        }
     }
 }
