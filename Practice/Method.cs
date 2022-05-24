@@ -22,5 +22,10 @@ namespace Practice
         {
             Console.WriteLine("Arun Gangwar");
         }
+        //Aviral Code
+        public void Aviral()
+        {
+            Console.WriteLine("Avi");
+        }
     }
 }
