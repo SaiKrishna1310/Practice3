@@ -13,5 +13,10 @@ namespace Practice
         {
             Console.WriteLine("Sai");
         }
+        //Bhagya's Code
+        public void Bhagya()
+        {
+            Console.WriteLine("Bhagya");
+        }
     }
 }
